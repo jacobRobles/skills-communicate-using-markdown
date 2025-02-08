@@ -10,7 +10,9 @@
 var myVar = "Hello, world, Look at the Image!";
 ```
 
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
